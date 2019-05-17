@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Situra</string>
+
+    <string name="tab_1">text to speech</string>
+    <string name="tab_2">speech to text</string>
+    <string name="tab_3">image to speech</string>
 </resources>
